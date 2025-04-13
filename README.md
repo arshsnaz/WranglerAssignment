@@ -34,4 +34,4 @@ aggregate-stats :size :duration total_size_mb total_time_sec
 - Integration test for aggregate-stats directive
 
 ## 🤖 AI Tool Prompts Used
-Check `prompts.txt` (if applicable)
+Check `prompts.txt`
