@@ -33,5 +33,3 @@ aggregate-stats :size :duration total_size_mb total_time_sec
 - Unit tests for ByteSize and TimeDuration
 - Integration test for aggregate-stats directive
 
-## 🤖 AI Tool Prompts Used
-Check `prompts.txt`
